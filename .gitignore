@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+*.log
+*.sqlite3
+*.db
+*.ipynb_checkpoints/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.venv/
+venv/
+
+# Parquet and Pickle files
+*.parquet
+
+# Data files
+*.csv
+
+# Model files
+*.h5
+*.pt
+*.joblib
+
+# CatBoost info
+catboost_info/
+
+# Submission files
+*.submission.csv
+
+# OS files
+.DS_Store
+Thumbs.db
